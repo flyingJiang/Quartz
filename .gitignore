@@ -7,6 +7,6 @@
 *.project
 *.prefs
 */target/
-target
-/target
+target/
+/target/
 
